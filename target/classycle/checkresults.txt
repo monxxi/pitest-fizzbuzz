@@ -1,0 +1,2 @@
+show onlyShortestPaths allResults
+check absenceOfPackageCycles > 1 in com.example*	OK
